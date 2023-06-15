@@ -1,0 +1,2874 @@
+.mediaViewInfo {
+    --web-view-name: Our Team;
+    --web-view-id: Our_Team;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+:root {
+    --web-view-ids: Our_Team;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgba(20, 20, 20, 1);
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(102, 212, 250, 1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
+
+.Our_Team_Class {
+    position: absolute;
+    width: 1920px;
+    height: 4145px;
+    background-color: rgba(15, 15, 15, 1);
+    overflow: hidden;
+    --web-view-name: Our Team;
+    --web-view-id: Our_Team;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.Footer_Class {
+    position: absolute;
+    width: 1592px;
+    height: 820px;
+    left: 164px;
+    top: 3275px;
+    overflow: visible;
+}
+
+.Copyright_Class {
+    position: absolute;
+    width: 255px;
+    height: 18px;
+    left: 669px;
+    top: 802px;
+    overflow: visible;
+}
+
+.Copyright_Sports_Club_2020_Class {
+    left: 27px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 229px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Copyright_Icon_Class {
+    position: absolute;
+    width: 14px;
+    height: 16px;
+    left: 0px;
+    top: 2px;
+    overflow: visible;
+}
+
+.Ellipse_80_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Ellipse_80 {
+    position: absolute;
+    overflow: visible;
+    width: 14px;
+    height: 14px;
+    left: 0px;
+    top: 1px;
+}
+
+.C_Class {
+    left: 3px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 9px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Legal_Class {
+    display: none;
+    position: absolute;
+    width: 192px;
+    height: 102px;
+    left: 1243px;
+    top: 572px;
+    overflow: visible;
+}
+
+.Terms__Conditions_Class {
+    left: 0px;
+    top: 80px;
+    position: absolute;
+    overflow: visible;
+    width: 193px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Privacy_Policy_Class {
+    left: 26px;
+    top: 52px;
+    position: absolute;
+    overflow: visible;
+    width: 141px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Legal__Class {
+    left: 66px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Contact_Us_Class {
+    position: absolute;
+    width: 340px;
+    height: 167px;
+    left: 1000px;
+    top: 372px;
+    overflow: visible;
+}
+
+.Group_497_Class {
+    position: absolute;
+    width: 340px;
+    height: 118.5px;
+    left: 0px;
+    top: 48.5px;
+    overflow: visible;
+}
+
+.Sportsclubnmimsgmailcom_Class {
+    left: 80px;
+    top: 94.5px;
+    position: absolute;
+    overflow: visible;
+    width: 225px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Mail_Icon_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Mail_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 24px;
+    height: 18px;
+    left: 0px;
+    top: 97.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Viren_Chhajer_____-_9181691069_Class {
+    left: 80px;
+    top: 56.5px;
+    position: absolute;
+    overflow: visible;
+    width: 255px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Kushagra_Gupta_-_918826843795_Class {
+    left: 80px;
+    top: 28.5px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Hardik_Vasudeva_-_918826843795_Class {
+    display: none;
+    left: 80px;
+    top: 0.5px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Phone_Icon_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Phone_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 25px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Contact_Us_ba_Class {
+    left: 144px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Address_Class {
+    position: absolute;
+    width: 189px;
+    height: 138px;
+    left: 300px;
+    top: 372px;
+    overflow: visible;
+}
+
+.ID7th_Floor_V_L_Mehta__Road_Vi_Class {
+    left: 37px;
+    top: 50px;
+    position: absolute;
+    overflow: visible;
+    width: 153px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Location_Icon_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Location_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 16.8px;
+    height: 24px;
+    left: 0px;
+    top: 52px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Address_be_Class {
+    left: 93px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Linkedin_Icon_Class {
+    position: absolute;
+    width: 70px;
+    height: 70.805px;
+    left: 871px;
+    top: 210px;
+    overflow: visible;
+}
+
+.Circle_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Circle {
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    height: 70.805px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_213_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_213 {
+    overflow: visible;
+    position: absolute;
+    width: 12.48px;
+    height: 13.216px;
+    left: 32.577px;
+    top: 31.593px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_214_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_214 {
+    overflow: visible;
+    position: absolute;
+    width: 4.004px;
+    height: 12.893px;
+    left: 26.066px;
+    top: 31.916px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_215_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_215 {
+    overflow: visible;
+    position: absolute;
+    width: 4.638px;
+    height: 4.659px;
+    left: 25.747px;
+    top: 26.552px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Icon_Class {
+    position: absolute;
+    width: 70px;
+    height: 70.805px;
+    left: 761px;
+    top: 210px;
+    overflow: visible;
+}
+
+.Circle_bl_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Circle_bl {
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    height: 70.805px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_210_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_210 {
+    overflow: visible;
+    position: absolute;
+    width: 19.311px;
+    height: 19.314px;
+    left: 25.746px;
+    top: 25.747px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_211_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_211 {
+    overflow: visible;
+    position: absolute;
+    width: 9.923px;
+    height: 9.923px;
+    left: 30.444px;
+    top: 30.445px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_212_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_212 {
+    overflow: visible;
+    position: absolute;
+    width: 2.317px;
+    height: 2.316px;
+    left: 39.404px;
+    top: 29.09px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Facebook_Icon_Class {
+    position: absolute;
+    width: 70px;
+    height: 70.921px;
+    left: 651px;
+    top: 210px;
+    overflow: visible;
+}
+
+.Circle_bq_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Circle_bq {
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    height: 70.921px;
+    left: 0px;
+    top: 0px;
+}
+
+.f_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.f {
+    overflow: visible;
+    position: absolute;
+    width: 10.494px;
+    height: 20.095px;
+    left: 29.738px;
+    top: 25.337px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Developed_By_Tech_Club_Class {
+    left: 653px;
+    top: 720px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Tech_Club_Footer_Logo_Class {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 728px;
+    top: 570px;
+    overflow: visible;
+}
+
+
+.Glow_Class {
+    opacity: 0.25;
+    filter: blur(50px);
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Logo_Class {
+    position: absolute;
+    width: 106px;
+    height: auto;
+    left: 10px;
+    top: 30px;
+    overflow: visible;
+}
+
+
+.Glow_bx_Class {
+    filter: blur(12px);
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Glow_bx {
+    filter: blur(20px);
+    overflow: visible;
+    position: absolute;
+    width: 630px;
+    height: 76px;
+    left: 5px;
+    top: -35px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.White_Line_Class {
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.White_Line {
+    overflow: visible;
+    position: absolute;
+    width: 638px;
+    height: 7px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Sports_Club_Footer_Logo_Class {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 760px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Glow_b_Class {
+    opacity: 0.5;
+    filter: blur(12px);
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Right_Line_Glow_Class {
+    position: absolute;
+    width: 707px;
+    height: 76px;
+    left: 961px;
+    top: 25px;
+    overflow: visible;
+}
+
+.Left_Line_Glow_Class {
+    position: absolute;
+    width: 707px;
+    height: 76px;
+    left: 0px;
+    top: 25px;
+    overflow: visible;
+}
+.Glow_ca_Class {
+    filter: blur(12px);
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Glow_ca {
+    filter: blur(20px);
+    overflow: visible;
+    position: absolute;
+    width: 630px;
+    height: 76px;
+    left: 5px;
+    top: -35px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.White_Line_b_Class {
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.White_Line_b {
+    overflow: visible;
+    position: absolute;
+    width: 638px;
+    height: 7px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Events_Heads_Section_Class {
+    position: absolute;
+    width: 1712.5px;
+    height: 1274.899px;
+    left: 0px;
+    top: 1900px;
+    overflow: visible;
+}
+
+.Avaantika_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.39px;
+    left: 1235px;
+    top: 943.509px;
+    overflow: visible;
+}
+
+.Avaantika_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.39px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 329.39px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263 {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 329.39px;
+    transform: translate(-1252px, -3088px) matrix(1, 0, 0, 1, 1252, 3088.0007) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264 {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 307.002px;
+    transform: translate(-1252px, -3088px) matrix(1, 0, 0, 1, 1252.0005, 3109.9882) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265 {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 293.074px;
+    transform: translate(-1252px, -3088px) matrix(1, 0, 0, 1, 1251.9999, 3088.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266 {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-1252px, -3088px) matrix(1, 0, 0, 1, 1252.0004, 3209.8167) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Muskan_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 824px;
+    top: 943.509px;
+    overflow: visible;
+}
+
+.Muskan_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.39px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_cf_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_cg_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_cg {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-841px, -3088px) matrix(1, 0, 0, 1, 840.9996, 3088.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_ch_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_ch {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-841px, -3088px) matrix(1, 0, 0, 1, 841.0005, 3109.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_ci_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_ci {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-841px, -3088px) matrix(1, 0, 0, 1, 840.9999, 3087.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_cj_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_cj {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-841px, -3088px) matrix(1, 0, 0, 1, 841.0004, 3210.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Atharva_Animation_Class {
+    position: absolute;
+    width: 271.501px;
+    height: 331.39px;
+    left: 413px;
+    top: 943.509px;
+    overflow: visible;
+}
+
+.Atharva_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.39px;
+    left: 0px;
+    top: 1px;
+    overflow: visible;
+}
+
+.Shapes_cm_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_cn_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_cn {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-430px, -3087px) matrix(1, 0, 0, 1, 429.9996, 3087.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_co_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_co {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-430px, -3087px) matrix(1, 0, 0, 1, 430.0005, 3108.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_cp_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_cp {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-430px, -3087px) matrix(1, 0, 0, 1, 429.9999, 3086.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_cq_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_cq {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-430px, -3087px) matrix(1, 0, 0, 1, 430.0004, 3209.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Kaushal_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 1441px;
+    top: 571.509px;
+    overflow: visible;
+}
+
+.Kaushal_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_ct_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_cu_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_cu {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-1441px, -2687px) matrix(1, 0, 0, 1, 1441, 2687.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_cv_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_cv {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-1441px, -2687px) matrix(1, 0, 0, 1, 1441.0005, 2708.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_cw_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_cw {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-1441px, -2687px) matrix(1, 0, 0, 1, 1440.9999, 2686.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_cx_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_cx {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-1441px, -2687px) matrix(1, 0, 0, 1, 1441.0004, 2809.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Saanika_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 1030px;
+    top: 571.509px;
+    overflow: visible;
+}
+
+.Saanika_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_c_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_c_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_c {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-1030px, -2687px) matrix(1, 0, 0, 1, 1030, 2687.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_c_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_c {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-1030px, -2687px) matrix(1, 0, 0, 1, 1030.0005, 2708.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_c_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_c {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-1030px, -2687px) matrix(1, 0, 0, 1, 1029.9999, 2686.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_c_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_c {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-1030px, -2687px) matrix(1, 0, 0, 1, 1030.0004, 2809.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Naman_Animation_Class {
+    position: absolute;
+    width: 271.501px;
+    height: 330.509px;
+    left: 619px;
+    top: 571.509px;
+    overflow: visible;
+}
+
+.Naman_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_da_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_da_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_da {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-619px, -2687px) matrix(1, 0, 0, 1, 618.9996, 2687.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_da_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_da {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-619px, -2687px) matrix(1, 0, 0, 1, 619.0005, 2708.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_da_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_da {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-619px, -2687px) matrix(1, 0, 0, 1, 618.9999, 2686.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_db_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_db {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-619px, -2687px) matrix(1, 0, 0, 1, 619.0004, 2809.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Prittika_Animation_Class {
+    position: absolute;
+    width: 271.501px;
+    height: 330.509px;
+    left: 208px;
+    top: 571.509px;
+    overflow: visible;
+}
+
+.Prittika_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_de_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_df_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_df {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-208px, -2687px) matrix(1, 0, 0, 1, 207.9996, 2687.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_dg_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_dg {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-208px, -2687px) matrix(1, 0, 0, 1, 208.0005, 2708.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_dh_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_dh {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-208px, -2687px) matrix(1, 0, 0, 1, 207.9999, 2686.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_di_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_di {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-208px, -2687px) matrix(1, 0, 0, 1, 208.0004, 2809.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Devrat_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 1235px;
+    top: 199.509px;
+    overflow: visible;
+}
+
+.Devrat_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_dl_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_dm_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_dm {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-1238px, -2287px) matrix(1, 0, 0, 1, 1238, 2287.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_dn_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_dn {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-1238px, -2287px) matrix(1, 0, 0, 1, 1238.0005, 2308.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_do_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_do {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-1238px, -2287px) matrix(1, 0, 0, 1, 1237.9999, 2286.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_dp_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_dp {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-1238px, -2287px) matrix(1, 0, 0, 1, 1238.0004, 2409.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Dhruv_Animation_Class {
+    position: absolute;
+    width: 271.75px;
+    height: 330.509px;
+    left: 824px;
+    top: 199.509px;
+    overflow: visible;
+}
+
+.Dhruv_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0.25px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_ds_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_dt_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_dt {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-827px, -2287px) matrix(1, 0, 0, 1, 826.9996, 2287.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_du_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_du {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-827px, -2287px) matrix(1, 0, 0, 1, 827.0005, 2308.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_dv_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_dv {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-827px, -2287px) matrix(1, 0, 0, 1, 826.9999, 2286.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_dw_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_dw {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-827px, -2287px) matrix(1, 0, 0, 1, 827.0004, 2409.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Aryan_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 413px;
+    top: 199.509px;
+    overflow: visible;
+}
+
+.Aryan_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_dz_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_d_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_d {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-416px, -2287px) matrix(1, 0, 0, 1, 415.9996, 2287.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_d_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_d {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-416px, -2287px) matrix(1, 0, 0, 1, 416.0005, 2308.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_d_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_d {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-416px, -2287px) matrix(1, 0, 0, 1, 415.9999, 2286.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_d_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_d {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-416px, -2287px) matrix(1, 0, 0, 1, 416.0004, 2409.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Event_Heads_Background_Class {
+    opacity: 0.6;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 473px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(41, 41, 41, 1);
+    letter-spacing: 1px;
+}
+
+.Event_Heads_Line_Class {
+    opacity: 0.75;
+    fill: rgba(255, 0, 0, 1);
+}
+
+.Event_Heads_Line {
+    overflow: visible;
+    position: absolute;
+    width: 452px;
+    height: 15px;
+    left: 0px;
+    top: 72px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Event_Heads_Title_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    left: 160px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 213px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Admin_Heads_Section_Class {
+    position: absolute;
+    width: 1506.5px;
+    height: 902.509px;
+    left: 0px;
+    top: 950px;
+    overflow: visible;
+}
+
+.Rachiet_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 1030px;
+    top: 572px;
+    overflow: visible;
+}
+
+.Rachiet_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_ea_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_eb_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_eb {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-1030px, -1638px) matrix(1, 0, 0, 1, 1030, 1638.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_ec_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_ec {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-1030px, -1638px) matrix(1, 0, 0, 1, 1030.0005, 1659.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_ed_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_ed {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-1030px, -1638px) matrix(1, 0, 0, 1, 1029.9999, 1637.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_ee_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_ee {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-1030px, -1638px) matrix(1, 0, 0, 1, 1030.0004, 1760.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Dhyaan_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 619px;
+    top: 572px;
+    overflow: visible;
+}
+
+.Dhyaan_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_eh_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_ei_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_ei {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-619px, -1638px) matrix(1, 0, 0, 1, 618.9996, 1638.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_ej_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_ej {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-619px, -1638px) matrix(1, 0, 0, 1, 619.0005, 1659.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_ek_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_ek {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-619px, -1638px) matrix(1, 0, 0, 1, 618.9999, 1637.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_el_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_el {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-619px, -1638px) matrix(1, 0, 0, 1, 619.0004, 1760.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Khushi_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 1235px;
+    top: 200px;
+    overflow: visible;
+}
+
+.Khushi_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_eo_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_ep_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_ep {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-1252px, -1238px) matrix(1, 0, 0, 1, 1252, 1238.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_eq_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_eq {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-1252px, -1238px) matrix(1, 0, 0, 1, 1252.0005, 1259.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_er_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_er {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-1252px, -1238px) matrix(1, 0, 0, 1, 1251.9999, 1237.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_es_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_es {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-1252px, -1238px) matrix(1, 0, 0, 1, 1252.0004, 1360.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Ishaan_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 824px;
+    top: 200px;
+    overflow: visible;
+}
+
+.Ishaan_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_ev_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_ew_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_ew {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-841px, -1238px) matrix(1, 0, 0, 1, 840.9996, 1238.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_ex_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_ex {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-841px, -1238px) matrix(1, 0, 0, 1, 841.0005, 1259.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_ey_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_ey {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-841px, -1238px) matrix(1, 0, 0, 1, 840.9999, 1237.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_ez_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_ez {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-841px, -1238px) matrix(1, 0, 0, 1, 841.0004, 1360.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Harsh_Animation_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.509px;
+    left: 413px;
+    top: 200px;
+    overflow: visible;
+}
+
+.Harsh_Image_Class {
+    position: absolute;
+    width: 271.5px;
+    height: 330.391px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_e_Class {
+    position: absolute;
+    width: 149.401px;
+    height: 330.509px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_e_Class {
+    opacity: 0.18;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_263_e {
+    overflow: visible;
+    position: absolute;
+    width: 127.468px;
+    height: 330.509px;
+    transform: translate(-430px, -1238px) matrix(1, 0, 0, 1, 429.9996, 1238.0003) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_e_Class {
+    opacity: 0.32;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_264_e {
+    overflow: visible;
+    position: absolute;
+    width: 149.4px;
+    height: 308.121px;
+    transform: translate(-430px, -1238px) matrix(1, 0, 0, 1, 430.0005, 1259.9878) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_e_Class {
+    opacity: 0.31;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_265_e {
+    overflow: visible;
+    position: absolute;
+    width: 80.042px;
+    height: 294.193px;
+    transform: translate(-430px, -1238px) matrix(1, 0, 0, 1, 429.9999, 1237.9998) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_e_Class {
+    opacity: 0.38;
+    fill: rgba(84, 176, 207, 1);
+}
+
+.Path_266_e {
+    overflow: visible;
+    position: absolute;
+    width: 84.746px;
+    height: 207.574px;
+    transform: translate(-430px, -1238px) matrix(1, 0, 0, 1, 430.0004, 1360.9348) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Our_Team_Background_Class {
+    opacity: 0.6;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 1181px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(41, 41, 41, 1);
+    letter-spacing: 1px;
+}
+
+.Our_Team_Line_Class {
+    opacity: 0.75;
+    fill: rgba(255, 0, 0, 1);
+}
+
+.Our_Team_Line {
+    overflow: visible;
+    position: absolute;
+    width: 708px;
+    height: 15px;
+    left: 0px;
+    top: 72px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Our_Team_Title_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    left: 160px;
+    top: 40px;
+    position: absolute;
+    overflow: visible;
+    width: 519px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Top_3_Section_Class {
+    position: absolute;
+    width: 1357.272px;
+    height: 543px;
+    left: 276px;
+    top: 336px;
+    overflow: visible;
+}
+
+.Vice_President_2_Animation_Class {
+    position: absolute;
+    width: 289.272px;
+    height: 400.491px;
+    left: 1068px;
+    top: 142.509px;
+    overflow: visible;
+}
+
+.VICE_-_PRESIDENT_Class {
+    left: 63px;
+    top: 378.491px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Vice_President_2_Image_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    position: absolute;
+    width: 289.272px;
+    height: 352.93px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_fe_Class {
+    position: absolute;
+    width: 167.098px;
+    height: 352.363px;
+    left: 0.946px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_272_Class {
+    opacity: 0.18;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_272 {
+    overflow: visible;
+    position: absolute;
+    width: 163.313px;
+    height: 352.362px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 3.785, 0.0004) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_273_Class {
+    opacity: 0.32;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_273 {
+    overflow: visible;
+    position: absolute;
+    width: 160.285px;
+    height: 351.984px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0.0007, 0) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_274_Class {
+    opacity: 0.31;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_274 {
+    overflow: visible;
+    position: absolute;
+    width: 105.784px;
+    height: 340.062px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0, 0.0004) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_275_Class {
+    opacity: 0.38;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_275 {
+    overflow: visible;
+    position: absolute;
+    width: 93.673px;
+    height: 256.797px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0.0007, 95.5658) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Vice_President_1_Animation_Class {
+    position: absolute;
+    width: 290px;
+    height: 400.491px;
+    left: 0px;
+    top: 142.509px;
+    overflow: visible;
+}
+
+.VICE_-_PRESIDENT_fk_Class {
+    left: 64px;
+    top: 378.491px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Vice_President_1_Image_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    position: absolute;
+    width: 290px;
+    height: 352.92px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Shapes_fm_Class {
+    position: absolute;
+    width: 167.366px;
+    height: 352.929px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_fn_Class {
+    opacity: 0.18;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_263_fn {
+    overflow: visible;
+    position: absolute;
+    width: 163.575px;
+    height: 352.928px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 3.7906, 0.0008) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_fo_Class {
+    opacity: 0.32;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_264_fo {
+    overflow: visible;
+    position: absolute;
+    width: 160.542px;
+    height: 352.549px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0.0007, 0.0004) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_fp_Class {
+    opacity: 0.31;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_265_fp {
+    overflow: visible;
+    position: absolute;
+    width: 105.954px;
+    height: 337.006px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0, 0) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_fq_Class {
+    opacity: 0.38;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_266_fq {
+    overflow: visible;
+    position: absolute;
+    width: 93.823px;
+    height: 257.209px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0.0002, 95.7196) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.President_Animation_Class {
+    position: absolute;
+    width: 310px;
+    height: 427px;
+    left: 529px;
+    top: 0px;
+    overflow: visible;
+}
+
+.PRESIDENT_Class {
+    left: 105px;
+    top: 405px;
+    position: absolute;
+    overflow: visible;
+    width: 101px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.President_Image_Class {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+    position: absolute;
+    width: 309.905px;
+    height: 379.404px;
+    left: 0.095px;
+    top: 0.174px;
+    overflow: visible;
+}
+
+.Shapes_fu_Class {
+    position: absolute;
+    width: 155.047px;
+    height: 379.579px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Path_263_fv_Class {
+    opacity: 0.18;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_263_fv {
+    overflow: visible;
+    position: absolute;
+    width: 152.425px;
+    height: 379.579px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 2.6229, 0.0004) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_264_fw_Class {
+    opacity: 0.32;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_264_fw {
+    overflow: visible;
+    position: absolute;
+    width: 149.627px;
+    height: 379.404px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0.0003, 0.1751) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_265_fx_Class {
+    opacity: 0.31;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_265_fx {
+    overflow: visible;
+    position: absolute;
+    width: 97.085px;
+    height: 325.063px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0, 0) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_266_fy_Class {
+    opacity: 0.38;
+    fill: rgba(220, 8, 8, 1);
+}
+
+.Path_266_fy {
+    overflow: visible;
+    position: absolute;
+    width: 92.642px;
+    height: 229.612px;
+    transform: translate(0px, 0px) matrix(1, 0, 0, 1, 0.0009, 149.9678) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Nav_Bar_Class {
+    position: absolute;
+    width: 1601.5px;
+    height: 104px;
+    left: 159px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Linkedin_Icon_Class1 {
+    position: absolute;
+    width: 70px;
+    height: 70.805px;
+    left: 1600px;
+    top: 15px;
+    overflow: visible;
+}
+
+.Path_2131_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2131 {
+    overflow: visible;
+    position: absolute;
+    width: 12.48px;
+    height: 13.216px;
+    left: 32.577px;
+    top: 31.593px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_2141_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2141 {
+    overflow: visible;
+    position: absolute;
+    width: 4.004px;
+    height: 12.893px;
+    left: 26.066px;
+    top: 31.916px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_2151_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2151 {
+    overflow: visible;
+    position: absolute;
+    width: 4.638px;
+    height: 4.659px;
+    left: 25.747px;
+    top: 26.552px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Logo_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Instagram_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 1566.5px;
+    top: 35px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Facebook_Logo_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Facebook_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 16.189px;
+    height: 31px;
+    left: 1526px;
+    top: 37px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Contact_Us_f_Class :hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Contact_Us_f_Class {
+    left: 1344.5px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Contact_Us;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Our_Team_f_Class {
+    left: 1185px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(102, 212, 250, 1);
+    text-transform: uppercase;
+}
+
+.Events_Class :hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Events_Class {
+    left: 1058.5px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 72px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Basketball;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Blaze_Class :hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Blaze_Class {
+    left: 947px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 60px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Blaze;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Home_Class :hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Home_Class {
+    left: 837.5px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Homepage;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Logo_f_Class {
+    position: absolute;
+    width: 415px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Sports_Logo_Class {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 50px;
+    top: 15px;
+    overflow: visible;
+}
+
+.NMIMS_ASMSOC_SPORTS_CLUB_Class {
+    left: 134px;
+    top: 27px;
+    line-height: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 282px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Facebook_Logo_Class:hover {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Instagram_Logo_Class:hover {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #0f0f0f;
+    position: relative;
+    max-width: 430px;
+    z-index: 100;
+    display: none;
+}
+
+.topnav #myLinks {
+    display: none;
+    z-index: 100;
+}
+
+.topnav a {
+    color: white;
+    padding: 20px 25px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Lemon/Milk Regular";
+    display: block;
+    z-index: 100;
+}
+
+.topnav a.icon {
+    background: #0f0f0f;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 7px;
+    z-index: 100;
+}
+
+.topnav a:hover {
+    background-color: rgba(102, 212, 250, 1);
+    color: #0f0f0f;
+    z-index: 100;
+}
+
+.active {
+    background-color: #0f0f0f;
+    color: rgb(255, 255, 255);
+    z-index: 100;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.UP_Arrow_Class {
+    transform: rotate(180deg);
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    z-index: 100;
+    right: 1rem;
+    bottom: 1rem;
+    overflow: visible;
+
+}
+.Vicepresidentpost {
+    position: relative;
+    font-size: 40px;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: bold;
+    color: #ffffff;
+    top: 490px;
+    left: 1085px;
+    overflow: hidden;
+}
+
+.Vicepresidentpost1 {
+    position: relative;
+    font-size: 40px;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: bold;
+    color: #ffffff;
+    top: 525px;
+    left: 20px;
+    overflow: hidden;
+}
+
+.Presidentpost {
+    position: relative;
+    font-size: 40px;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: bold;
+    color: #ffffff;
+    top: 340px;
+    left: 605px;
+}

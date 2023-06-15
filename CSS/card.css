@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.cardcontainer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 1200px;
+    transform-style: preserve-3d;
+}
+
+.cardcontainer .cardbox {
+    position: relative;
+    width: 300px;
+    height: 400px;
+    margin: 40px;
+    background: #232323;
+    border-radius: 20px;
+    transform-style: preserve-3d;
+}
+
+.cardcontainer .cardbox::before {
+    content: 'BLAZE';
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 4em;
+    font-weight: 900;
+    color: white;
+    font-style: normal;
+    opacity: 0;
+}
+
+.cardcontainer .cardbox::after {
+    content: 'HEAD';
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 4em;
+    font-weight: 900;
+    color: white;
+    font-style: normal;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.cardcontainer .cardbox:hover::before,
+.cardcontainer .cardbox:hover::after {
+    opacity: 0.04;
+}
+
+.cardcontainer .cardbox .cardname {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    color: white;
+    width: 100%;
+    transform-style: preserve-3d;
+    transform: translate3d(0, 0, 75px);
+    transition: 0.5s;
+    opacity: 0;
+    z-index: 10;
+}
+
+.cardcontainer .cardbox:hover .cardname {
+    top: 20px;
+    opacity: 1;
+}
+
+.cardcontainer .cardbox .cardbuy {
+    position: absolute;
+    bottom: 0;
+    left: 150px;
+    transform-style: preserve-3d;
+    transform: translate3d(-50%, 0, 75px);
+    color: white;
+    background: #333;
+    padding: 10px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: 0.5s;
+    opacity: 0;
+    z-index: 10;
+}
+
+.cardcontainer .cardbox:hover .cardbuy {
+    bottom: 10px;
+    opacity: 1;
+}
+
+.cardcontainer .cardbox .cardcircle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    transition: 0.5s;
+    background: #fff;
+    transform-style: preserve-3d;
+    z-index: 10;
+    opacity: 1;
+    transform: translate3d(-50%, -50%, 0px);
+}
+
+.cardcontainer .cardbox .cardproduct {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    max-width: 250px;
+    transition: 0.5s;
+    z-index: 110;
+    transition: 0.5s;
+    transform: translate3d(-50%, -50%, 0px) rotate(0deg);
+}
+
+.cardcontainer .cardbox:hover .cardproduct {
+    transform: translate3d(-50%, -50%, 100px) rotate(0deg);
+}
+
+.cardcontainer .cardbox:nth-child(1) .cardcircle,
+.cardcontainer .cardbox:nth-child(1) .cardbuy {
+    background: #379bf7;
+}
+
+.cardcontainer .cardbox:nth-child(2) .cardcircle,
+.cardcontainer .cardbox:nth-child(2) .cardbuy {
+    background: #9bdc28;
+}

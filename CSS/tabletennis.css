@@ -1,0 +1,2768 @@
+.mediaViewInfo {
+    --web-view-name: Table Tennis;
+    --web-view-id: Table_Tennis;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgba(20, 20, 20, 1);
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(102, 212, 250, 1);
+}
+
+input {
+    position: relative;
+    left: 110px;
+    height: 60px;
+    z-index: 1;
+    background: transparent;
+    font-family: 'Lemon/Milk Regular';
+    color: white;
+    outline: none;
+    font-size: 25px;
+}
+
+.Table_Tennis_Video {
+    position: relative;
+    top: -8px;
+    left: 112px;
+    height: 770px;
+}
+
+:root {
+    --web-view-ids: Table_Tennis;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
+
+.Table_Tennis_Class {
+    position: absolute;
+    width: 1920px;
+    height: 5700px;
+    background-color: rgba(15, 15, 15, 1);
+    overflow: hidden;
+    --web-view-name: Table Tennis;
+    --web-view-id: Table_Tennis;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-refresh-for-changes: true;
+    --web-application: true;
+    --web-enable-deep-linking: true;
+}
+
+@keyframes fadein {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.Footer_Class {
+    position: absolute;
+    width: 1592px;
+    height: 821px;
+    left: 164px;
+    top: 4830px;
+    overflow: visible;
+}
+
+.Copyright_Class {
+    position: absolute;
+    width: 226px;
+    height: 19px;
+    left: 669px;
+    top: 802px;
+    overflow: visible;
+}
+
+.Copyright_Sports_Club_2020_Class {
+    left: 56px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 171px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Copyright_Icon_Class {
+    position: absolute;
+    width: 14px;
+    height: 16px;
+    left: 0px;
+    top: 2px;
+    overflow: visible;
+}
+
+.Ellipse_80_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Ellipse_80 {
+    position: absolute;
+    overflow: visible;
+    width: 14px;
+    height: 14px;
+    left: 0px;
+    top: 1px;
+}
+
+.C_Class {
+    left: 3px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 9px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Legal_Class {
+    display: none;
+    position: absolute;
+    width: 138px;
+    height: 102px;
+    left: 1270px;
+    top: 572px;
+    overflow: visible;
+}
+
+.Terms__Conditions_Class {
+    left: 0px;
+    top: 80px;
+    position: absolute;
+    overflow: visible;
+    width: 139px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Privacy_Policy_Class {
+    left: 22px;
+    top: 52px;
+    position: absolute;
+    overflow: visible;
+    width: 95px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Legal__Class {
+    left: 48px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 43px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Contact_Us_Class {
+    position: absolute;
+    width: 340px;
+    height: 167px;
+    left: 1000px;
+    top: 372px;
+    overflow: visible;
+}
+
+.Group_497_Class {
+    position: absolute;
+    width: 340px;
+    height: 118.5px;
+    left: 0px;
+    top: 48.5px;
+    overflow: visible;
+}
+
+.Sportsclubnmimsgmailcom_Class {
+    left: 80px;
+    top: 94.5px;
+    position: absolute;
+    overflow: visible;
+    width: 225px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Mail_Icon_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Mail_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 24px;
+    height: 18px;
+    left: 0px;
+    top: 97.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Viren_Chhajer___-_9181691069_Class {
+    left: 80px;
+    top: 56.5px;
+    position: absolute;
+    overflow: visible;
+    width: 255px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Kushagra_Gupta_-_918826843795_Class {
+    left: 80px;
+    top: 28.5px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Hardik_Vasudeva_-_918826843795_Class {
+    display: none;
+    left: 80px;
+    top: 0.5px;
+    position: absolute;
+    overflow: visible;
+    width: 263px;
+    white-space: nowrap;
+    line-height: 45px;
+    margin-top: -13.5px;
+    text-align: center;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 18px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Phone_Icon_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Phone_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 25px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Contact_Us_ba_Class {
+    left: 144px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 87px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Address_Class {
+    position: absolute;
+    width: 189px;
+    height: 138px;
+    left: 300px;
+    top: 372px;
+    overflow: visible;
+}
+
+.ID7th_Floor_V_L_Mehta__Road_Vi_Class {
+    left: 37px;
+    top: 50px;
+    position: absolute;
+    overflow: visible;
+    width: 153px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk light Regular';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Location_Icon_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Location_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 16.8px;
+    height: 24px;
+    left: 0px;
+    top: 52px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Address_be_Class {
+    left: 93px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Linkedin_Icon_Class {
+    position: absolute;
+    width: 70px;
+    height: 70.805px;
+    left: 871px;
+    top: 210px;
+    overflow: visible;
+}
+
+.Circle_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Circle {
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    height: 70.805px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_213_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_213 {
+    overflow: visible;
+    position: absolute;
+    width: 12.48px;
+    height: 13.216px;
+    left: 32.577px;
+    top: 31.593px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_214_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_214 {
+    overflow: visible;
+    position: absolute;
+    width: 4.004px;
+    height: 12.893px;
+    left: 26.066px;
+    top: 31.916px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_215_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_215 {
+    overflow: visible;
+    position: absolute;
+    width: 4.638px;
+    height: 4.659px;
+    left: 25.747px;
+    top: 26.552px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Instagram_Icon_Class {
+    position: absolute;
+    width: 70px;
+    height: 70.805px;
+    left: 761px;
+    top: 210px;
+    overflow: visible;
+}
+
+.Circle_bl_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Circle_bl {
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    height: 70.805px;
+    left: 0px;
+    top: 0px;
+}
+
+.Path_210_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_210 {
+    overflow: visible;
+    position: absolute;
+    width: 19.311px;
+    height: 19.314px;
+    left: 25.746px;
+    top: 25.747px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_211_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_211 {
+    overflow: visible;
+    position: absolute;
+    width: 9.923px;
+    height: 9.923px;
+    left: 30.444px;
+    top: 30.445px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_212_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.Path_212 {
+    overflow: visible;
+    position: absolute;
+    width: 2.317px;
+    height: 2.316px;
+    left: 39.404px;
+    top: 29.09px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Facebook_Icon_Class {
+    position: absolute;
+    width: 70px;
+    height: 70.921px;
+    left: 651px;
+    top: 210px;
+    overflow: visible;
+}
+
+.Circle_bq_Class {
+    fill: transparent;
+    stroke: rgba(152, 150, 150, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Circle_bq {
+    position: absolute;
+    overflow: visible;
+    width: 70px;
+    height: 70.921px;
+    left: 0px;
+    top: 0px;
+}
+
+.f_Class {
+    fill: rgba(152, 150, 150, 1);
+}
+
+.f {
+    overflow: visible;
+    position: absolute;
+    width: 10.494px;
+    height: 20.095px;
+    left: 29.738px;
+    top: 25.337px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Developed_By_Tech_Club_Class {
+    left: 653px;
+    top: 720px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(152, 150, 150, 1);
+}
+
+.Tech_Club_Footer_Logo_Class {
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 728px;
+    top: 570px;
+    overflow: visible;
+}
+
+
+.Glow_Class {
+    opacity: 0.25;
+    filter: blur(50px);
+    position: absolute;
+    width: 136px;
+    height: 136px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Logo_Class {
+    position: absolute;
+    width: 106px;
+    height: auto;
+    left: 10px;
+    top: 30px;
+    overflow: visible;
+}
+
+
+
+.Glow_bx_Class {
+    filter: blur(12px);
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Glow_bx {
+    overflow: visible;
+    position: absolute;
+    width: 638px;
+    height: 7px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.White_Line_Class {
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.White_Line {
+    overflow: visible;
+    position: absolute;
+    width: 638px;
+    height: 7px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Sports_Club_Footer_Logo_Class {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 760px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Glow_b_Class {
+    opacity: 0.5;
+    filter: blur(12px);
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Logo_b_Class {
+    position: absolute;
+    width: 150px;
+    height: auto;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Right_Line_Glow_Class {
+    position: absolute;
+    width: 707px;
+    height: 76px;
+    left: 961px;
+    top: 25px;
+    overflow: visible;
+}
+
+.Left_Line_Glow_Class {
+    position: absolute;
+    width: 707px;
+    height: 76px;
+    left: 0px;
+    top: 25px;
+    overflow: visible;
+}
+
+.Glow_ca_Class {
+    filter: blur(12px);
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Glow_ca {
+    overflow: visible;
+    position: absolute;
+    width: 638px;
+    height: 7px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.White_Line_b_Class {
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 7px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.White_Line_b {
+    overflow: visible;
+    position: absolute;
+    width: 638px;
+    height: 7px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Gallery_Section_Class {
+    position: absolute;
+    width: 1760px;
+    height: 929px;
+    left: 0px;
+    top: 3801px;
+    overflow: visible;
+}
+.BadmintonGal1{
+    height: 700px;
+    width: 1200px;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+.BadmintonGallery{
+    font-size: 50px;
+    font-family: 'Lemon/Milk Bold';
+    position: absolute;
+    top: 500px;
+    left: 1280px;
+    overflow: hidden;
+    width: 500px;
+    text-decoration: none;
+    color: inherit;
+}
+a{
+    color: inherit;
+}
+.Event_Thumbnail_Class {
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.161));
+    position: absolute;
+    width: 1024.279px;
+    height: 700px;
+    left: 160px;
+    top: 229px;
+    overflow: visible;
+}
+
+.Slider_Class {
+    position: absolute;
+    width: 359px;
+    height: 49px;
+    left: 1401px;
+    top: 879.75px;
+    overflow: visible;
+}
+
+.Right_Arrow_Class {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Right_Arrow {
+    overflow: visible;
+    position: absolute;
+    width: 38px;
+    height: 86px;
+    transform: translate(-1459px, -784.25px) matrix(1, 0, 0, 1, 1756, 767) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.ID15_Class {
+    left: 153px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 55px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 37px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Left_Arrow_Class {
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgba(112, 112, 112, 1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Left_Arrow {
+    overflow: visible;
+    position: absolute;
+    width: 35.5px;
+    height: 86px;
+    transform: translate(-1459px, -784.25px) matrix(1, 0, 0, 1, 1484.25, 765.75) rotate(90deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.VIEW_GALLERY_Class {
+    left: 1479.5px;
+    top: 482px;
+    position: absolute;
+    overflow: visible;
+    width: 248px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Table_Tennis_cc_Class {
+    filter: drop-shadow(10px 10px 10px rgba(0, 0, 0, 0.161)) blur(0px);
+    left: 1160.5px;
+    top: 275px;
+    position: absolute;
+    overflow: visible;
+    width: 574px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Gallery_Background_Class {
+    opacity: 0.6;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 473px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(41, 41, 41, 1);
+    letter-spacing: 1px;
+}
+
+.Gallery_Line_Class {
+    fill: transparent;
+    stroke: rgba(156, 13, 3, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Gallery_Line {
+    overflow: visible;
+    position: absolute;
+    width: 491px;
+    height: 10px;
+    left: 0px;
+    top: 78.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Gallery_Title_Class {
+    left: 160px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 208px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.2px;
+}
+
+.Location_Section_Class {
+    position: absolute;
+    width: 1760px;
+    height: 795px;
+    left: 0px;
+    top: 2890px;
+    overflow: visible;
+}
+
+.Map_Class {
+    position: absolute;
+    width: 1600px;
+    height: 680px;
+    left: 160px;
+    top: 115px;
+    overflow: visible;
+}
+
+.Map_Background_Class {
+    position: absolute;
+    width: 1600px;
+    height: 680px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Black_Layer_Class {
+    opacity: 0.3;
+    fill: rgba(0, 0, 0, 1);
+}
+
+.Black_Layer {
+    position: absolute;
+    overflow: visible;
+    width: 1600px;
+    height: 680px;
+    left: 160px;
+    top: 115px;
+}
+
+.Address_ck_Class {
+    position: absolute;
+    width: 413.672px;
+    height: 186.399px;
+    left: 160px;
+    top: 608px;
+    overflow: visible;
+}
+
+.Address_Rectangle_Class {
+    opacity: 0.8;
+    fill: rgba(0, 0, 9, 1);
+    stroke: rgba(0, 0, 0, 1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Address_Rectangle {
+    position: absolute;
+    overflow: visible;
+    width: 413px;
+    height: 186px;
+    left: 0.271px;
+    top: 0px;
+}
+
+.Lower_Line_Class {
+    fill: transparent;
+    stroke: rgba(102, 212, 250, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Lower_Line {
+    overflow: visible;
+    position: absolute;
+    width: 123.357px;
+    height: 102.5px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Lower_Glow_Class {
+    filter: blur(13px);
+    fill: transparent;
+    stroke: rgba(102, 212, 250, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Lower_Glow {
+    overflow: visible;
+    position: absolute;
+    width: 123.357px;
+    height: 102.5px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Glyph_Class {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 355.588px;
+    top: 129px;
+    overflow: visible;
+}
+
+.Bigger_Class {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Bigger {
+    overflow: visible;
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Smaller_Class {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Smaller {
+    overflow: visible;
+    position: absolute;
+    width: 18.064px;
+    height: 18.826px;
+    left: 14.968px;
+    top: 12.092px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Lorem_ipsum_dolor_sit_amet__co_Class {
+    left: 33px;
+    top: 23px;
+    position: absolute;
+    overflow: visible;
+    width: 237px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(102, 212, 250, 1);
+}
+
+.Upper_Class {
+    position: absolute;
+    width: 202px;
+    height: 181px;
+    left: 250px;
+    top: -50px;
+    overflow: visible;
+}
+
+.Lower_Class {
+    position: absolute;
+    width: 202px;
+    height: 181px;
+    left: -35px;
+    top: 60px;
+    overflow: visible;
+}
+
+.Upper_Glow_Class {
+    filter: blur(13px);
+    fill: transparent;
+    stroke: rgba(102, 212, 250, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Upper_Glow {
+    overflow: visible;
+    position: absolute;
+    width: 122.722px;
+    height: 102.5px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Upper_Line_Class {
+    fill: transparent;
+    stroke: rgba(102, 212, 250, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Upper_Line {
+    overflow: visible;
+    position: absolute;
+    width: 122.722px;
+    height: 102.5px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Location_Line_Class {
+    fill: transparent;
+    stroke: rgba(156, 13, 3, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Location_Line {
+    overflow: visible;
+    position: absolute;
+    width: 702px;
+    height: 10px;
+    left: 0px;
+    top: 40.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.our_location_Class {
+    left: 160px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 343px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Register_Section_Class {
+    position: absolute;
+    width: 1760px;
+    height: 845.2px;
+    left: 0px;
+    top: 1901px;
+    overflow: visible;
+}
+
+.Sports_Animation_Class {
+    position: absolute;
+    width: 759.421px;
+    height: 687.151px;
+    left: 1000.579px;
+    top: 158.049px;
+    overflow: visible;
+}
+
+.Animation_Class {
+    position: absolute;
+    width: 759.421px;
+    height: 687.15px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Submit_Button_Class {
+    position: absolute;
+    width: 196.4px;
+    height: 59.2px;
+    left: 371px;
+    top: 786px;
+    overflow: visible;
+}
+
+.Lower_c_Class {
+    fill: transparent;
+    stroke: rgba(102, 212, 250, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Lower_c {
+    overflow: visible;
+    position: absolute;
+    width: 104.9px;
+    height: 45.699px;
+    left: 0px;
+    top: 16px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Upper_c_Class {
+    fill: transparent;
+    stroke: rgba(102, 212, 250, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Upper_c {
+    overflow: visible;
+    position: absolute;
+    width: 104.9px;
+    height: 45.699px;
+    left: 94px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.SUBMIT_Class {
+    left: 58px;
+    top: 16px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Phone_Input_Class {
+    position: absolute;
+    width: 619px;
+    height: 63px;
+    left: 160px;
+    top: 643px;
+    overflow: visible;
+}
+
+.Dark_Lifted_Class {
+    fill: transparent;
+    stroke: rgba(15, 15, 15, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dark_Lifted {
+    filter: drop-shadow(4px 4px 6px rgba(2, 2, 2, 1));
+    position: absolute;
+    overflow: visible;
+    width: 565px;
+    height: 101px;
+    left: 92px;
+    top: 0px;
+}
+
+.Light_Lifted_Class {
+    fill: transparent;
+    stroke: rgba(15, 15, 15, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Light_Lifted {
+    filter: drop-shadow(-4px -4px 6px rgba(22, 22, 22, 1));
+    position: absolute;
+    overflow: visible;
+    width: 565px;
+    height: 101px;
+    left: 92px;
+    top: 0px;
+}
+
+.Phone_Icon_c_Class {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Phone_Icon_c {
+    overflow: visible;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 12px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Mail_Input_Class {
+    position: absolute;
+    width: 619px;
+    height: 63px;
+    left: 160px;
+    top: 500px;
+    overflow: visible;
+}
+
+.Dark_Lifted_da_Class {
+    fill: transparent;
+    stroke: rgba(15, 15, 15, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dark_Lifted_da {
+    filter: drop-shadow(4px 4px 6px rgba(2, 2, 2, 1));
+    position: absolute;
+    overflow: visible;
+    width: 565px;
+    height: 101px;
+    left: 92px;
+    top: 0px;
+}
+
+.Light_Lifted_db_Class {
+    fill: transparent;
+    stroke: rgba(15, 15, 15, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Light_Lifted_db {
+    filter: drop-shadow(-4px -4px 6px rgba(22, 22, 22, 1));
+    position: absolute;
+    overflow: visible;
+    width: 565px;
+    height: 101px;
+    left: 92px;
+    top: 0px;
+}
+
+.Mail_Icon_dc_Class {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Mail_Icon_dc {
+    overflow: visible;
+    position: absolute;
+    width: 40px;
+    height: 27.201px;
+    left: 0px;
+    top: 18px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Name_Input_Class {
+    position: absolute;
+    width: 619px;
+    height: 63px;
+    left: 160px;
+    top: 357px;
+    overflow: visible;
+}
+
+.Dark_Lifted_de_Class {
+    fill: transparent;
+    stroke: rgba(15, 15, 15, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Dark_Lifted_de {
+    filter: drop-shadow(4px 4px 6px rgba(2, 2, 2, 1));
+    position: absolute;
+    overflow: visible;
+    width: 565px;
+    height: 101px;
+    left: 92px;
+    top: 0px;
+}
+
+.Light_Lifted_df_Class {
+    fill: transparent;
+    stroke: rgba(15, 15, 15, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Light_Lifted_df {
+    filter: drop-shadow(-4px -4px 6px rgba(22, 22, 22, 1));
+    position: absolute;
+    overflow: visible;
+    width: 565px;
+    height: 101px;
+    left: 92px;
+    top: 0px;
+}
+
+.Name_Icon_Class {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Name_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 0px;
+    top: 11px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Register_for_our_Events_Class {
+    left: 200px;
+    top: 230px;
+    position: absolute;
+    overflow: visible;
+    width: 387px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(251, 250, 248, 1);
+}
+
+.Register_Background_Class {
+    opacity: 0.6;
+    left: 20px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 630px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    color: rgba(41, 41, 41, 1);
+    letter-spacing: 1px;
+}
+
+.Register_Line_Class {
+    fill: transparent;
+    stroke: rgba(156, 13, 3, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Register_Line {
+    overflow: visible;
+    position: absolute;
+    width: 505px;
+    height: 10px;
+    left: 0px;
+    top: 78.5px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Register_Title_Class {
+    left: 160px;
+    top: 39px;
+    position: absolute;
+    overflow: visible;
+    width: 231px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Aftermovie_Section_Class {
+    position: absolute;
+    width: 1920px;
+    height: 950px;
+    left: 0px;
+    top: 950px;
+    overflow: visible;
+}
+
+.Aftermovie_Background_Class {
+    position: absolute;
+    width: 1920px;
+    height: 950px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Aftermovie_Background_Image_Class {
+    position: absolute;
+    width: 1920px;
+    height: 950px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Aftermovie_Black_Layer_Class {
+    fill: rgba(0, 0, 0, 0.612);
+}
+
+.Aftermovie_Black_Layer {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 950px;
+    left: 0px;
+    top: 0px;
+}
+
+.Aftermovie_Border_Class {
+    position: absolute;
+    width: 1599px;
+    height: 778px;
+    left: 130px;
+    top: 42px;
+    overflow: visible;
+}
+
+
+.Aftermovie_Glow_Class {
+    filter: blur(15px);
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 10px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Aftermovie_Glow {
+    position: absolute;
+    overflow: visible;
+    width: 1689px;
+    height: 868px;
+    left: 0px;
+    top: 0px;
+}
+
+.Aftermovie_Line_Class {
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 1);
+    stroke-width: 5px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Aftermovie_Line {
+    position: absolute;
+    overflow: visible;
+    width: 1599px;
+    height: 778px;
+    left: 0px;
+    top: 0px;
+}
+
+.Aftermovie_Video_Class {
+    position: absolute;
+    width: 1577.015px;
+    height: 749.668px;
+    left: 172.985px;
+    top: 98.596px;
+    overflow: visible;
+}
+
+.Aftermovie_Video_Image_Class {
+    position: absolute;
+    width: 1577.015px;
+    height: 749.668px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Landing_Section_Class {
+    position: absolute;
+    width: 2919.999px;
+    height: 1080px;
+    left: -999.999px;
+    top: -130px;
+    overflow: visible;
+}
+
+.Basketball_Background_Class {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 999.999px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Black_Layer_dw_Class {
+    opacity: 0.5;
+    fill: rgba(6, 5, 5, 1);
+}
+
+.Black_Layer_dw {
+    position: absolute;
+    overflow: visible;
+    width: 1920px;
+    height: 950px;
+    left: 999.999px;
+    top: 130px;
+}
+
+.Event_Triangle_Class {
+    opacity: 0.85;
+    fill: rgba(15, 15, 15, 1);
+}
+
+.Event_Triangle {
+    overflow: visible;
+    position: absolute;
+    width: 1999.999px;
+    height: 1080px;
+    transform: translate(999.999px, 130px) matrix(1, 0, 0, 1, -999.9989, -130.0001) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Selector_Class {
+    position: absolute;
+    width: 778.118px;
+    height: 106px;
+    left: 1159.999px;
+    top: 841px;
+    overflow: visible;
+}
+
+.Selector_Background_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Selector_Background {
+    filter: drop-shadow(3px 3px 4px rgba(0, 0, 0, 1));
+    overflow: visible;
+    position: absolute;
+    width: 790.118px;
+    height: 118px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Tennis_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 699px;
+    top: 23px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Lawn_Tennis;
+    cursor: pointer;
+}
+
+.Dark_Lifted_d_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_d {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lifted_d_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lifted_d {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Tennis_Icon_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Tennis_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 27.918px;
+    left: 15.001px;
+    top: 16px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Cricket_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 614px;
+    top: 23px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Cricket;
+    cursor: pointer;
+}
+
+.Dark_Lifted_ea_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_ea {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lifted_ea_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lifted_ea {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Cricket_Icon_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Cricket_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30.226px;
+    height: 30px;
+    transform: translate(-8409px, 592px) matrix(1, 0, 0, 1, 8423.9998, -577) rotate(180deg);
+    transform-origin: center;
+    left: 0px;
+    top: 0px;
+}
+
+.Pool__Snooker_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 529px;
+    top: 23px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Pool__Snooker;
+    cursor: pointer;
+}
+
+.Dark_Lifted_eb_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_eb {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lifted_eb_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lifted_eb {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Solid_Class {
+    position: absolute;
+    width: 30px;
+    height: 26.727px;
+    left: 15px;
+    top: 16.637px;
+    overflow: visible;
+}
+
+.Ellipse_323_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_323 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 18px;
+    top: 9.49px;
+}
+
+.Ellipse_324_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_324 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 12.547px;
+    top: 9.49px;
+}
+
+.Ellipse_325_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_325 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 12.547px;
+    top: 18.928px;
+}
+
+.Ellipse_326_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_326 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 18px;
+    top: 18.928px;
+}
+
+.Ellipse_327_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_327 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 15.273px;
+    top: 14.209px;
+}
+
+.Ellipse_328_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_328 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 23.455px;
+    top: 18.928px;
+}
+
+.Ellipse_329_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_329 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 9.818px;
+    top: 14.209px;
+}
+
+.Ellipse_330_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_330 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 7.092px;
+    top: 18.928px;
+}
+
+.Ellipse_331_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_331 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 20.729px;
+    top: 14.209px;
+}
+
+.Ellipse_332_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_332 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 7.092px;
+    top: 9.49px;
+}
+
+.Ellipse_333_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_333 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 4.363px;
+    top: 14.209px;
+}
+
+.Ellipse_334_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_334 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 15.273px;
+    top: 4.746px;
+}
+
+.Ellipse_335_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_335 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 1.637px;
+    top: 18.928px;
+}
+
+.Ellipse_336_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Ellipse_336 {
+    position: absolute;
+    overflow: visible;
+    width: 4.364px;
+    height: 4.363px;
+    left: 9.818px;
+    top: 4.746px;
+}
+
+.Path_1030_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_1030 {
+    overflow: visible;
+    position: absolute;
+    width: 4.364px;
+    height: 4.363px;
+    left: 12.547px;
+    top: 0px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_1031_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_1031 {
+    overflow: visible;
+    position: absolute;
+    width: 27.818px;
+    height: 2.162px;
+    left: 2.182px;
+    top: 24.564px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_1032_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_1032 {
+    overflow: visible;
+    position: absolute;
+    width: 1.091px;
+    height: 1.146px;
+    left: 0px;
+    top: 25.072px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Arcade_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 444px;
+    top: 23px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Arcade;
+    cursor: pointer;
+}
+
+.Dark_Lifted_eu_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_eu {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lifted_ev_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lifted_ev {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Arcade_Icon_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Arcade_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 21.418px;
+    left: 15px;
+    top: 19px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Badminton_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 359px;
+    top: 23px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Badminton;
+    cursor: pointer;
+}
+
+.Dark_Lifted_ey_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_ey {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lifted_ez_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lifted_ez {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Badminton_Icon_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Badminton_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 28.838px;
+    left: 15px;
+    top: 16px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Table_Tennis_e_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 274px;
+    top: 23px;
+    overflow: visible;
+}
+
+.Light_Pressed_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Dark_Pressed_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Table_Tennis_Icon_Class {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Table_Tennis_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 28.449px;
+    left: 15.101px;
+    top: 16px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Football_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 189.071px;
+    top: 23px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Football;
+    cursor: pointer;
+}
+
+.Dark_Lifted_e_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_e {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lefted_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lefted {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Football_Icon_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Football_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 15.125px;
+    top: 14.875px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Chess_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 104.071px;
+    top: 23px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Chess;
+    cursor: pointer;
+}
+
+.Dark_Lifted_fa_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_fa {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lifted_fb_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lifted_fb {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Chess_Icon_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Chess_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 15.092px;
+    top: 15.092px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Basketball_Class {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 15px;
+    top: 22.563px;
+    overflow: visible;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Basketball;
+    cursor: pointer;
+}
+
+.Dark_Lifted_fe_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Dark_Lifted_fe {
+    filter: drop-shadow(4px 4px 5px rgba(15, 15, 15, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Light_Lifted_ff_Class {
+    fill: rgba(22, 22, 22, 1);
+}
+
+.Light_Lifted_ff {
+    filter: drop-shadow(-4px -4px 5px rgba(28, 28, 28, 1));
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+}
+
+.Basketball_Icon_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Basketball_Icon {
+    overflow: visible;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 15px;
+    top: 15px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+    left: 1159.999px;
+    top: 553px;
+    line-height: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 338px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.15px;
+}
+
+.Table_Tennis_fi_Class {
+    left: 1159.999px;
+    top: 448px;
+    position: absolute;
+    overflow: visible;
+    width: 358px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.2px;
+}
+
+.Nav_Bar_Class {
+    position: absolute;
+    width: 1601.5px;
+    height: 104px;
+    left: 159px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Instagram_Logo_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Instagram_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 1566.5px;
+    top: 35px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Facebook_Logo_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Facebook_Logo {
+    overflow: visible;
+    position: absolute;
+    width: 16.189px;
+    height: 31px;
+    left: 1526px;
+    top: 37px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Contact_Us_fm_Class {
+    left: 1344.5px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 105px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Contact_Us;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Our_Team_Class {
+    left: 1185px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 89px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Our_Team;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Events_Class {
+    left: 1058.5px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 63px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(102, 212, 250, 1);
+    text-transform: uppercase;
+}
+
+.Blaze_Class {
+    left: 947px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 52px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Blaze;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Home_Class {
+    left: 837.5px;
+    top: 41px;
+    position: absolute;
+    overflow: visible;
+    width: 52px;
+    white-space: nowrap;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: view;
+    --web-action-target: Homepage;
+    cursor: pointer;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+}
+
+.Logo_fr_Class {
+    position: absolute;
+    width: 385px;
+    height: 104px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.Sports_Logo_Class {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    left: 50px;
+    top: 15px;
+    overflow: visible;
+}
+
+.NMIMS_ASMSOC_SPORTS_CLUB_Class {
+    left: 134px;
+    top: 27px;
+    line-height: 20px;
+    position: absolute;
+    overflow: visible;
+    width: 252px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Lemon/Milk Bold';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.Home_Class:hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Blaze_Class:hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Our_Team_Class:hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Contact_Us_fm_Class:hover {
+    color: rgba(102, 212, 250, 1);
+}
+
+.Facebook_Logo_Class:hover {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Instagram_Logo_Class:hover {
+    fill: rgba(102, 212, 250, 1);
+}
+
+.Linkedin_Icon_Class1 {
+    position: absolute;
+    width: 70px;
+    height: 70.805px;
+    left: 1600px;
+    top: 15px;
+    overflow: visible;
+}
+
+.Path_2131_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2131 {
+    overflow: visible;
+    position: absolute;
+    width: 12.48px;
+    height: 13.216px;
+    left: 32.577px;
+    top: 31.593px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_2141_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2141 {
+    overflow: visible;
+    position: absolute;
+    width: 4.004px;
+    height: 12.893px;
+    left: 26.066px;
+    top: 31.916px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.Path_2151_Class {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.Path_2151 {
+    overflow: visible;
+    position: absolute;
+    width: 4.638px;
+    height: 4.659px;
+    left: 25.747px;
+    top: 26.552px;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #0f0f0f;
+    position: relative;
+    max-width: 430px;
+    z-index: 100;
+    display: none;
+}
+
+.topnav #myLinks {
+    display: none;
+    z-index: 100;
+}
+
+.topnav a {
+    color: white;
+    padding: 20px 25px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: "Lemon/Milk Regular";
+    display: block;
+    z-index: 100;
+}
+
+.topnav a.icon {
+    background: #0f0f0f;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 7px;
+    z-index: 100;
+}
+
+.topnav a:hover {
+    background-color: rgba(102, 212, 250, 1);
+    color: #0f0f0f;
+    z-index: 100;
+}
+
+.active {
+    background-color: #0f0f0f;
+    color: rgb(255, 255, 255);
+    z-index: 100;
+}
+.UP_Arrow_Class {
+    transform: rotate(180deg);
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    z-index: 100;
+    right: 1rem;
+    bottom: 1rem;
+    overflow: visible;
+
+}
